@@ -2,7 +2,7 @@
 
 /* Custom hover effect */
 .hover-effect:hover {
-    background-color:bisque; /* Bootstrap primary color */
+    background-color:darkkhaki; 
     color: white;
     
     
@@ -11,6 +11,6 @@ body{
     background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%);
 }
  .tic-tac-toe {
-            max-width: 400px; /* Set a max width */
-            margin: auto; /* Center it */
+            max-width: 400px; 
+            margin: auto; 
         } 
